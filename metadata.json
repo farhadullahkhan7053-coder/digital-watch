@@ -1,0 +1,5 @@
+{
+  "name": "Health Watch Assistant",
+  "description": "A comprehensive smartwatch application for Wear OS featuring a digital watch face, fitness tracking, weather updates, and activity reminders.",
+  "requestFramePermissions": ["geolocation"]
+}
